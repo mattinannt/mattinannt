@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Matthias Nannt! 👋
 
-- 🔭 I am an Entrepreneur and Software Developer currently working on helping SMEs bringing AI into their companies with [stackOcean](https://stackocean.com) and building an open source Typeform alternative with [couchforms](https://couchforms.com).
+- 🔭 I am an Entrepreneur and Software Developer currently working on helping SMEs bringing AI into their companies with [stackOcean](https://stackocean.com) and building an open source Typeform alternative with [snoopForms](https://github.com/snoopForms/snoopforms).
 - 🤓 I'm excellent at building web-based products but are also able to support with projects in the AI- and Blockchain-space. My preferred tech-stack includes Typescript, Next.js and TailwindCSS.
 - 🧐 I am only building things that scale, can be used globally, are mobile first/only and solve a problem.
 - 💬 You can ask me about product development, how to turn your ideas into a startup, AWS / Cloud and Blockchain; always happy to help 🤗
