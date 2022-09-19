@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 [![Contact information](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@matthiasnannt.com)
 [![Linkedin profile URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthiasnannt/)
 
+## What I built so far...
+- [couchSurvey](https://couchsurvey.com): SaaS Form & Survey Creation and Evaluation Tool
+- [snoopForms](https://github.com/snoopForms/snoopforms): Open Source Typeform Alternative
+- [chatShopper](https://www.youtube.com/shorts/JY_61lxRknc): Chatbot for Fashion Shopping (no longer active)
+- Case-Study Creation Tool for [digiwhat.de](https://website.digiwhat.de/): Management-Console and complex config-based case study form creation suite
+- Simple NLU: An easy to use Natural Language Understanding Engine (Training & Prediction) (gets open sourced soon)
+
 Technologies & frameworks I love
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
