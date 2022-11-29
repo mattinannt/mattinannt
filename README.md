@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Matthias Nannt! 👋
 
-- 🔭 I am an Entrepreneur and Software Developer currently working on helping SMEs bringing AI into their companies with [stackOcean](https://stackocean.com) and building an open source Typeform alternative with [snoopForms](https://github.com/snoopForms/snoopforms).
+- 🔭 I am an Entrepreneur and Software Developer currently working on helping SMEs bringing AI into their companies with [stackOcean](https://stackocean.com) and building an open source Typeform alternative with [Formbricks](https://github.com/formbricks/formbricks) (previously named snoopForms).
 - 🤓 I'm excellent at building web-based products but are also able to support with projects in the AI- and Blockchain-space. My preferred tech-stack includes Typescript, Next.js and TailwindCSS.
 - 🧐 I am only building things that scale, can be used globally, are mobile first/only and solve a problem.
 - 💬 You can ask me about product development, how to turn your ideas into a startup, AWS / Cloud and Blockchain; always happy to help 🤗
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 [![Linkedin profile URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthiasnannt/)
 
 ## What I built so far...
-- [couchSurvey](https://couchsurvey.com): SaaS Form & Survey Creation and Evaluation Tool
-- [snoopForms](https://github.com/snoopForms/snoopforms): Open Source Typeform Alternative
+- [couchSurvey](https://couchsurvey.com): SaaS Form & Survey Creation and Evaluation Tool (transitioned into Formbricks)
+- [Formbricks](https://github.com/formbricks/formbricks): The Open Source Forms & Survey Toolbox for Experience Management
 - [chatShopper](https://www.youtube.com/shorts/JY_61lxRknc): Chatbot for Fashion Shopping (no longer active)
 - Case-Study Creation Tool for [digiwhat.de](https://website.digiwhat.de/): Management-Console and complex config-based case study form creation suite
 - Simple NLU: An easy to use Natural Language Understanding Engine (Training & Prediction) (gets open sourced soon)
