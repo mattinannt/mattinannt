@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I am an Entrepreneur and Software Developer currently working on building an Open Source Experience Management Toolbox with [Formbricks](https://github.com/formbricks/formbricks) (previously named snoopForms).
 - 🤓 I'm excellent at building web-based products but are also able to support with projects in the AI- and Blockchain-space. My preferred tech-stack includes Typescript, Next.js and TailwindCSS.
 - 🧐 I am only building things that scale, can be used globally, are mobile first/only and solve a problem.
-- 💬 You can ask me about product development, how to turn your ideas into a startup, AWS / Cloud and Blockchain; always happy to help 🤗
+- 💬 You can ask me about product development, how to turn your ideas into a startup, AWS / Cloud and AI; always happy to help 🤗
 - ⚡ Fun fact: Love plants. Currently having around 80 plants in my small apartment 🌱
 
 [![Contact information](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@matthiasnannt.com)
